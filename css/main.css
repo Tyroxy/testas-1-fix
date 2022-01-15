@@ -21,7 +21,7 @@ header > img {
     object-fit: contain;
 }
 
-#le{
+.le{
     position: absolute;
     left: 80px;
     width: 290px;
@@ -29,7 +29,7 @@ header > img {
     text-align: center;
 }
 
-#ce-le{
+.ce-le{
     position: absolute;
     left: 430px;
     width: 290px;
@@ -37,7 +37,7 @@ header > img {
     text-align: center;
 }
  
-#ce-ri{
+.ce-ri{
     position: absolute;
     left: 790px;;
     width: 290px;;
@@ -45,7 +45,7 @@ header > img {
     text-align: center;
 }
 
-#ri{
+.ri{
     position: absolute;
     left: 1140px;
     width: 310px;;
@@ -68,5 +68,5 @@ p {
     font-size: 20px;
 }
 
-#ri, #ce-ri, #ce-le, #le{
+.ri, .ce-ri, .ce-le, .le{
     border: 5px solid #ffffff;
